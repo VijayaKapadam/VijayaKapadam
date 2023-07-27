@@ -6,12 +6,7 @@ I'm a passionate Salesforce & Marketing Cloud developer with a love for open-sou
 - React ⚛️ | Node.js 🟢 | Django 🎸 | Spring Boot 🌱
 - Salesforce 🌩️ | Marketing Cloud 📧 | AMPscript 🔌 | SSJS ⚙️ 
 
-## GitHub Stats 📊
-- This space will fill soon!
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijayakapadam&show_icons=true&theme=radical)
-
-
 ## Fun Fact 🎉
-I love exploring new programming languages and experimenting with fun coding challenges. When I'm not coding, you can find me playing tennis, or enjoying a cup of coffee at my favorite cafe. ☕️
+I love exploring new programming languages and experimenting with fun coding challenges. You can find me playing tennis or enjoying a cup of coffee at my favourite cafe when I'm not coding. ☕️
 
 Let's connect and build amazing things together! 😄
