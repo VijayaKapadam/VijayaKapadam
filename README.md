@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile! 👋
-
 ## About Me 🙋‍♂️
 I'm a passionate Salesforce & Marketing Cloud developer with a love for open-source and technology. My journey in the world of coding began with programming languages like PASCAL, COBOL and has led me to explore various programming languages and frameworks.
 
@@ -9,6 +7,7 @@ I'm a passionate Salesforce & Marketing Cloud developer with a love for open-sou
 - Salesforce 🌩️ | Marketing Cloud 📧 | AMPscript 🔌 | SSJS ⚙️ 
 
 ## GitHub Stats 📊
+- This space will fill soon!
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijayakapadam&show_icons=true&theme=radical)
 
 
